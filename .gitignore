@@ -1,0 +1,11 @@
+models/lite-model_movenet_singlepose_lightning_3.tflite
+models/resnet.h5
+models/
+venv
+img/
+img/train/bad/*.png
+img/train/good/*.png
+img/test/bad/*.png
+img/test/good/*.png
+.ipynb_checkpoints/
+videos/
