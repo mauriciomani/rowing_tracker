@@ -1,6 +1,6 @@
 # Rowing Instructor 
 
-![app example](resources/videos/app_test.gif)
+![app example](resources/help_videos/app_test.gif)
 
 ---------------------
 
